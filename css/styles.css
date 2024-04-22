@@ -1,0 +1,9 @@
+div {
+    width: 5rem;
+    height: 5rem;
+    background-color: gray;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+}
