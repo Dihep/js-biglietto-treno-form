@@ -12,3 +12,4 @@ function calcPrice() {
     console.log(price);
     document.querySelector(`h1`).innerHTML = price;
 };
+//
